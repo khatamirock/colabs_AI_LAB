@@ -1,0 +1,21 @@
+age,edu,incm,Mart stt,BC
+36-55,master,high,single,yes
+18-35,high s,low,single,no
+36-55,master,low,single,yes
+18-35,bachelor,high,single,no
+<18,high s,low,single,yes
+18-35,bachelor,high,married,no
+36-55,bachelor,low,married,no
+>55,bachelor,high,single,yes
+36-55,master,low,married,no
+>55,master,low,married,yes
+36-55,master,high,single,yes
+>55,master,high,single,yes
+<18,high s,high,single,no
+36-55,master,low,single,yes
+36-55,high s,low,single,yes
+<18,high s,low,married,yes
+18-35,bachelor,high,married,no
+>55,high s,high,married,yes
+>55,bachelor,low,single,yes
+36-55,high s,high,married,no
