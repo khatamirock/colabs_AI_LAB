@@ -43,6 +43,7 @@ def ig2(col, coln, brnc, total):
 
 
 def runner(data):
+# TODO can cause error... Use the data.columns method
     cols = set(['age', 'edu', 'incm', 'Mart stt'])
 
     tempstore = {}
