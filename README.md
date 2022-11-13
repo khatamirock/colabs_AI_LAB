@@ -5,7 +5,7 @@ the Decision Tree Implementation from SCRATCH on machine learning LAB-work
 ##$ this predicts the result accordingly to the tree 
 ### in this case if the person can ## buy-Computer or not
 ![ScreenShot_20221110125027](https://user-images.githubusercontent.com/67198296/201020479-842c0e61-403a-410c-bc45-14e873dc95d8.png)
-# generated Tree
+## generated Tree from model
 ![ScreenShot_20221113084434](https://user-images.githubusercontent.com/67198296/201503174-98d6b403-8c90-49f7-ac07-913b2baaac08.png)
 
 
