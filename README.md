@@ -7,6 +7,9 @@ the Decision Tree Implementation from SCRATCH on machine learning LAB-work
 ![ScreenShot_20221110125027](https://user-images.githubusercontent.com/67198296/201020479-842c0e61-403a-410c-bc45-14e873dc95d8.png)
 ## generated Tree from model
 ![ScreenShot_20221113084434](https://user-images.githubusercontent.com/67198296/201503174-98d6b403-8c90-49f7-ac07-913b2baaac08.png)
+## for the second dataset
+### the minimized and efficient Decision Tree
+![ScreenShot_20221113085853](https://user-images.githubusercontent.com/67198296/201503557-47fc8c7e-4a8c-479e-ae29-f69535f379ad.png)
 
 
 
