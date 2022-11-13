@@ -49,4 +49,4 @@ def learned(lists, root):
     while(ftr):
         node = ftr.pop(0)
         newNode = learner(newNode, node)
-        print('>>>checking and rolling')
+        # print('>>>checking and rolling')

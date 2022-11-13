@@ -1,5 +1,6 @@
 import pandas as pd
 import learn
+import treebuilder
 from utilty import *
 
 
@@ -38,8 +39,10 @@ def visiter(data, node):
 
 
 visiter(data, node)
-print(node.name, node.children)
+print(node, node.name, node.children)
 
 feature = ['36-55', 'master', 'high', 'single']
 print('+++++++++++++++++++++++++++++++++++++++++ result')
 learn.learned(feature, node)
+
+treebuilder.treebuild(node, 0)
