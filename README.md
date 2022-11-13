@@ -11,5 +11,7 @@ the Decision Tree Implementation from SCRATCH on machine learning LAB-work
 ### the minimized and efficient Decision Tree
 ![ScreenShot_20221113085853](https://user-images.githubusercontent.com/67198296/201503557-47fc8c7e-4a8c-479e-ae29-f69535f379ad.png)
 
+## randomTreeGenerated-image
+![treeGen](https://user-images.githubusercontent.com/67198296/201508125-fd0dbd70-f063-4731-a4f7-92c07897abfe.jpg)
 
 
