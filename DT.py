@@ -4,7 +4,7 @@ import treebuilder
 from utilty import *
 
 
-data = pd.read_csv('DT2.csv', sep=',')
+data = pd.read_csv('DT.csv', sep=',')
 data.head(7)
 
 
@@ -45,4 +45,5 @@ feature = ['36-55', 'master', 'high', 'single']
 print('+++++++++++++++++++++++++++++++++++++++++ result')
 learn.learned(feature, node)
 print(data.columns)
-treebuilder.treebuild(node, 0)
+treeStructure=treebuilder.treebuild(node, 0)
+treebuilder.imageBuild(treeStructure)
