@@ -3,7 +3,11 @@ the Decision Tree Implementation from SCRATCH on machine learning LAB-work
 ### this generates the tree 🎄 model from dataset file and ACUTUALLY # learns from that data
 ### so when we give it some feature in a list=>> feature = ['36-55', 'master', 'high', 'single']
 ##$ this predicts the result accordingly to the tree 
-### developed Tree model on Terminal
+
+### tree from Dataset-1
+![treeGen](https://user-images.githubusercontent.com/67198296/201817105-dda5078b-1612-41fb-aeaa-12fbc70026ee.jpg)
+
+## developed Tree model on Terminal
 ![ScreenShot_20221115083538](https://user-images.githubusercontent.com/67198296/201816823-5027a6e7-8e81-489a-9f32-98756647b96a.png)
 
 
