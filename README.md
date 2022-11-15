@@ -4,9 +4,9 @@ the Decision Tree Implementation from SCRATCH on machine learning LAB-work
 ### so when we give it some feature in a list=>> feature = ['36-55', 'master', 'high', 'single']
 ##$ this predicts the result accordingly to the tree 
 ### in this case if the person can ## buy-Computer or not
-![ScreenShot_20221110125027](https://user-images.githubusercontent.com/67198296/201020479-842c0e61-403a-410c-bc45-14e873dc95d8.png)
+![ScreenShot_20221115083538](https://user-images.githubusercontent.com/67198296/201816823-5027a6e7-8e81-489a-9f32-98756647b96a.png)
+
+
 ## generated Tree from model
-![ScreenShot_20221113084434](https://user-images.githubusercontent.com/67198296/201503174-98d6b403-8c90-49f7-ac07-913b2baaac08.png)
-
-
+![tree](https://user-images.githubusercontent.com/67198296/201816826-40d6a948-d34a-4638-8ec1-83af6045762c.jpg)
 
