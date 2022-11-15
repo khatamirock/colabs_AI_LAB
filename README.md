@@ -7,9 +7,8 @@ the Decision Tree Implementation from SCRATCH on machine learning LAB-work
 ### tree from Dataset-1 (here from the given features we can see the results is = YES)
 ![treeGen](https://user-images.githubusercontent.com/67198296/201817105-dda5078b-1612-41fb-aeaa-12fbc70026ee.jpg)
 
-## developed Tree model on Terminal
+## random Tree.learn Tree Structure model on Terminal
 ![ScreenShot_20221115083538](https://user-images.githubusercontent.com/67198296/201816823-5027a6e7-8e81-489a-9f32-98756647b96a.png)
-
 
 ## generated Tree image from model(.JPG)
 ![tree](https://user-images.githubusercontent.com/67198296/201816826-40d6a948-d34a-4638-8ec1-83af6045762c.jpg)
