@@ -4,7 +4,7 @@ the Decision Tree Implementation from SCRATCH on machine learning LAB-work
 ### so when we give it some feature in a list=>> feature = ['36-55', 'master', 'high', 'single']
 ##$ this predicts the result accordingly to the tree 
 
-### tree from Dataset-1
+### tree from Dataset-1 (here from the given features we can see the results is = YES)
 ![treeGen](https://user-images.githubusercontent.com/67198296/201817105-dda5078b-1612-41fb-aeaa-12fbc70026ee.jpg)
 
 ## developed Tree model on Terminal
